@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition
+# Slotted-ALOHA-Protocol
